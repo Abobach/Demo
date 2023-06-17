@@ -1,0 +1,24 @@
+C:\Users\Artem\source\repos\ЦПКиО им Маяковского\ЦПКиО им Маяковского\bin\Debug\ЦПКиО им Маяковского.exe.config
+C:\Users\Artem\source\repos\ЦПКиО им Маяковского\ЦПКиО им Маяковского\bin\Debug\ЦПКиО им Маяковского.exe
+C:\Users\Artem\source\repos\ЦПКиО им Маяковского\ЦПКиО им Маяковского\bin\Debug\ЦПКиО им Маяковского.pdb
+C:\Users\Artem\source\repos\ЦПКиО им Маяковского\ЦПКиО им Маяковского\obj\Debug\ЦПКиО им Маяковского.csproj.AssemblyReference.cache
+C:\Users\Artem\source\repos\ЦПКиО им Маяковского\ЦПКиО им Маяковского\obj\Debug\ЦПКиО им Маяковского.csproj.SuggestedBindingRedirects.cache
+C:\Users\Artem\source\repos\ЦПКиО им Маяковского\ЦПКиО им Маяковского\obj\Debug\MainWindow.g.cs
+C:\Users\Artem\source\repos\ЦПКиО им Маяковского\ЦПКиО им Маяковского\obj\Debug\MainWindows.g.cs
+C:\Users\Artem\source\repos\ЦПКиО им Маяковского\ЦПКиО им Маяковского\obj\Debug\App.g.cs
+C:\Users\Artem\source\repos\ЦПКиО им Маяковского\ЦПКиО им Маяковского\obj\Debug\ЦПКиО им Маяковского_MarkupCompile.cache
+C:\Users\Artem\source\repos\ЦПКиО им Маяковского\ЦПКиО им Маяковского\obj\Debug\ЦПКиО им Маяковского_MarkupCompile.lref
+C:\Users\Artem\source\repos\ЦПКиО им Маяковского\ЦПКиО им Маяковского\obj\Debug\MainWindow.baml
+C:\Users\Artem\source\repos\ЦПКиО им Маяковского\ЦПКиО им Маяковского\obj\Debug\MainWindows.baml
+C:\Users\Artem\source\repos\ЦПКиО им Маяковского\ЦПКиО им Маяковского\obj\Debug\ЦПКиО им Маяковского.g.resources
+C:\Users\Artem\source\repos\ЦПКиО им Маяковского\ЦПКиО им Маяковского\obj\Debug\ЦПКиО_им_Маяковского.Properties.Resources.resources
+C:\Users\Artem\source\repos\ЦПКиО им Маяковского\ЦПКиО им Маяковского\obj\Debug\ЦПКиО им Маяковского.csproj.GenerateResource.cache
+C:\Users\Artem\source\repos\ЦПКиО им Маяковского\ЦПКиО им Маяковского\obj\Debug\ЦПКиО им Маяковского.csproj.CoreCompileInputs.cache
+C:\Users\Artem\source\repos\ЦПКиО им Маяковского\ЦПКиО им Маяковского\obj\Debug\ЦПКиО им Маяковского.exe
+C:\Users\Artem\source\repos\ЦПКиО им Маяковского\ЦПКиО им Маяковского\obj\Debug\ЦПКиО им Маяковского.pdb
+C:\Users\Artem\source\repos\ЦПКиО им Маяковского\ЦПКиО им Маяковского\obj\Debug\AdminPage.g.cs
+C:\Users\Artem\source\repos\ЦПКиО им Маяковского\ЦПКиО им Маяковского\obj\Debug\SellPage.g.cs
+C:\Users\Artem\source\repos\ЦПКиО им Маяковского\ЦПКиО им Маяковского\obj\Debug\Smena.g.cs
+C:\Users\Artem\source\repos\ЦПКиО им Маяковского\ЦПКиО им Маяковского\obj\Debug\AdminPage.baml
+C:\Users\Artem\source\repos\ЦПКиО им Маяковского\ЦПКиО им Маяковского\obj\Debug\SellPage.baml
+C:\Users\Artem\source\repos\ЦПКиО им Маяковского\ЦПКиО им Маяковского\obj\Debug\Smena.baml

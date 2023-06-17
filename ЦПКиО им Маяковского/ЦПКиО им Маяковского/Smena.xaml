@@ -1,0 +1,11 @@
+﻿<UserControl x:Class="ЦПКиО_им_Маяковского.Smena"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:ЦПКиО_им_Маяковского"
+             mc:Ignorable="d" Height="605" Width="1065">
+    <Grid Background="Brown" Width="1134" Height="724">
+            
+    </Grid>
+</UserControl>
